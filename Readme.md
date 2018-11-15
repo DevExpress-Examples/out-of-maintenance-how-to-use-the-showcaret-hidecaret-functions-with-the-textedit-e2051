@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q248138/Form1.cs) (VB: [Form1.vb](./VB/Q248138/Form1.vb))
+<!-- default file list end -->
 # How to use the ShowCaret/HideCaret functions with the TextEdit
 
 
